@@ -156,12 +156,8 @@ img.socialIcon {
 }
 #education{
   background-image: url('images/image.png');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-@keyframes slideInLeft {
-  0% {
-    transform: translateX(-100%);
-  }
-  100% {
-    transform: translateX(0);
-  }
-}
+
+
