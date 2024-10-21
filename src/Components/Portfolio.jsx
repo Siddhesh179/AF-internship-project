@@ -61,20 +61,20 @@ const projectList = [
       "Tailored the app to meet the needs of travelers and online shoppers, ensuring convenient access to real-time currency information, making it an essential tool for financial decision-making.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
-  // {
-  //   title: "Personal Portfolio Website",
-  //   description:
-  //     "This portfolio website is a personal platform designed to showcase my skills, projects, and professional experiences. It features an elegant and responsive user interface, built with HTML for structure, CSS for styling, and Tailwind CSS for rapid UI development.\n" + 
-  //     "  JavaScript adds interactivity to enhance the user experience. The website includes sections such as an About Me page, project showcases, skills, and contact information, providing a comprehensive overview of my capabilities as a web developer",
-  //   url: "https://rakshit412005.github.io/Portfolio_Website/",
-  // },
-  // {
-  //   title: "Tic Tac Toe",
-  //   description:
-  //     "This is a simple, yet classic game developed using HTML, CSS, and JavaScript. The game allows two players to compete against each other by taking turns to mark the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.\n" + 
-  //     "   Allows two players to play the game on the same device.Winner Detection: Detects when a player has won the game or if the game ends in a draw. Reset Game: Allows players to reset the game and start a new match. Interactive UI: Engaging and easy-to-use user interface.",
-  //   url: "https://rakshit412005.github.io/Tic-Tac-Toe/",
-  // },
+  {
+    title: "Personal Portfolio Website",
+    description:
+      "This portfolio website is a personal platform designed to showcase my skills, projects, and professional experiences. It features an elegant and responsive user interface, built with HTML for structure, CSS for styling, and Tailwind CSS for rapid UI development.\n" + 
+      "  JavaScript adds interactivity to enhance the user experience. The website includes sections such as an About Me page, project showcases, skills, and contact information, providing a comprehensive overview of my capabilities as a web developer",
+    url: "https://rakshit412005.github.io/Portfolio_Website/",
+  },
+  {
+    title: "Tic Tac Toe",
+    description:
+      "This is a simple, yet classic game developed using HTML, CSS, and JavaScript. The game allows two players to compete against each other by taking turns to mark the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.\n" + 
+      "   Allows two players to play the game on the same device.Winner Detection: Detects when a player has won the game or if the game ends in a draw. Reset Game: Allows players to reset the game and start a new match. Interactive UI: Engaging and easy-to-use user interface.",
+    url: "https://rakshit412005.github.io/Tic-Tac-Toe/",
+  },
 ];
 
 const Portfolio = () => {
