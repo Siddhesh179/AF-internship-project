@@ -6,7 +6,7 @@
   "homepage": "https://Rakshit412005.github.io/AF-internship-project",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
+    "build": "react-scripts build",
     "build-gh": "parcel build --public-url 'https://Rakshit412005.github.io/AF-internship-project'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
