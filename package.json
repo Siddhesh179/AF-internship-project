@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Rakshit412005.github.io/AF-internship-project",
+  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
   "scripts": {
     "start": "parcel",
-    "build": "react-scripts build",
-    "build-gh": "parcel build --public-url 'https://Rakshit412005.github.io/AF-internship-project'",
+    "build": "parcel build",
+    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },

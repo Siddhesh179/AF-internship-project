@@ -59,7 +59,7 @@ const projectList = [
     description:
       " Developed a dynamic currency converter application using React.js, HTML, Tailwind CSS, and JavaScript, enablingusers to perform quick and accurate conversions between various currencies in real-time and also integrated swap functionality for better user experience.\n"+
       "Tailored the app to meet the needs of travelers and online shoppers, ensuring convenient access to real-time currency information, making it an essential tool for financial decision-making.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://react-currency-converter-omega-dun.vercel.app/",
   },
   {
     title: "Personal Portfolio Website",
